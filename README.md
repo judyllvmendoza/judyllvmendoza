@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @judyllvmendoza
 - 👀 I’m interested in travelling
-- 🌱 I’m currently learning developin softwares
+- 🌱 I’m currently learning software development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me through judyllvmendoza@gmail.com
 
